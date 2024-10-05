@@ -1,0 +1,1 @@
+# Project-10--Object-Character-Recognition-OCR-on-AWS
